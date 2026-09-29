@@ -5,7 +5,7 @@
     <ProjectGuid>b9f4b56e-e7b6-4873-869f-907dfb8d02d9</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>Hello_poem.py</StartupFile>
+    <StartupFile>02_name_hello.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Hello_poem.py" />
+    <Compile Include="02_name_hello.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
